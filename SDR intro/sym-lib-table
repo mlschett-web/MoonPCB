@@ -17,4 +17,5 @@
   (lib (name "647676-2")(type "KiCad")(uri "C:/Users/Schet/Downloads/647676_2/647676-2.kicad_sym")(options "")(descr ""))
   (lib (name "BNO055")(type "KiCad")(uri "C:/Users/Schet/Downloads/BNO055/BNO055.kicad_sym")(options "")(descr ""))
   (lib (name "LMS8117AMP-3.3_NOPB")(type "KiCad")(uri "C:/Users/Schet/Downloads/LMS8117AMP_3_3_NOPB/LMS8117AMP-3.3_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "Friendly diode")(type "KiCad")(uri "C:/Users/Schet/Downloads/UFM15PL_TP/KiCADv6/2026-02-24_02-29-57.kicad_sym")(options "")(descr ""))
 )
